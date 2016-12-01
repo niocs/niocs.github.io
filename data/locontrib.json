@@ -1,0 +1,58 @@
+{
+    "data": [
+	
+	{
+	    "date": "20160507",
+	    "description": "Handle autofilter search for dates correctly",
+	    "type": "bugfix",
+	    "tdfid": "97340",
+	    "gerritid": "25850",
+	    "status": "accepted"
+	},
+
+        {
+	    "date": "20160629",
+	    "description": "Fix FTEST algorithmic bug",
+	    "type": "bugfix",
+	    "tdfid": "93329",
+	    "gerritid": "26482",
+	    "status": "accepted"
+	},
+
+        {
+	    "date": "20160924",
+	    "description": "Optionally include comment-only columns when sorting",
+	    "type": "bugfix",
+	    "tdfid": "100517",
+	    "gerritid": "29593",
+	    "status": "accepted"
+	},
+
+        {
+	    "date": "20160607",
+	    "description": "Refactor ScAttrArray",
+	    "type": "perf",
+	    "tdfid": "50916",
+	    "gerritid": "27828",
+	    "status": "accepted"
+	},
+
+        {
+	    "date": "20161007",
+	    "description": "Do not show merge cells context menu for the trivial case",
+	    "type": "bugfix",
+	    "tdfid": "101299",
+	    "gerritid": "29583",
+	    "status": "accepted"
+	},
+
+        {
+	    "date": "20161120",
+	    "description": "Refactor table1.cxx wherever there is column access",
+	    "type": "perf",
+	    "tdfid": "50916",
+	    "gerritid": "31125",
+	    "status": "accepted"
+	}
+    ]
+}
